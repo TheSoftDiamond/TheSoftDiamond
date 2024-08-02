@@ -23,3 +23,4 @@
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Kazushin](https://kazush.in)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=Kazushin&theme=tokyonight)](https://github.com/TheSoftDiamond/Kazushin)|
+</p>
