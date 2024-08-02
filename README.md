@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://softdiamond.net/images/softoutline2.png"></div>
 
-
+<br/>
 <div align="center">
   ● 🖥️ I work in <strong>Python, Javascript, Unity, Blender</strong><br/>
   ● 🔴 I like to stream on <strong>Twitch</strong> and work on videos.<br/>
