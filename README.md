@@ -1,7 +1,7 @@
 <div align="center"><h1>SoftDiamond</h1>
 </div>
 
-<div align="center"><img src="https://softdiamond.net/images/Soft 3-01 231.png" width="250" height="250"></div>
+<div align="center"><img src="https://softdiamond.net/images/Soft 3-01 231.png" width="150" height="150"></div>
 
 <br/>
 <div align="center">
