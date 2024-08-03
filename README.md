@@ -19,8 +19,8 @@
 </p>
 
 ### Current Projects ###
-https://github.com/TheSoftDiamond/wordify
+
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Kazushin](https://kazush.in)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=Kazushin&theme=tokyonight)](https://github.com/TheSoftDiamond/Kazushin)|
-|[Wordify](https://github.com/TheSoftDiamond/wordify)|[![Readme Card](https://github.com/TheSoftDiamond/wordify&theme=tokyonight)](https://github.com/TheSoftDiamond/wordify)|
+|[Wordify](https://github.com/TheSoftDiamond/wordify)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=wordify&theme=tokyonight)](https://github.com/TheSoftDiamond/wordify)|
