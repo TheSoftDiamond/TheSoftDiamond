@@ -14,7 +14,7 @@
 <div align="center"><h2>Things I work with</h2></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,py,discordjs,gcp,html,js,unity,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=blender,py,discordjs,gcp,html,js,unity,nodejs,vscode,npm" />
   </a>
 </p>
 
