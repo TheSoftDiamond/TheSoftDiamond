@@ -11,7 +11,7 @@
   ● 📧 Reach out to me at <a href="mailto:softdiamond@softdiamond.net">softdiamond@softdiamond.net</a>
 </div>
 
-<div align="center"><h2>Things I work with</h2></div>
+<div align="center"><h2>Technologies I work with</h2></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,py,discordjs,gcp,html,js,unity,nodejs,vscode,npm" />
