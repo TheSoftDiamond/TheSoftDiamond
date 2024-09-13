@@ -24,3 +24,4 @@
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Kazushin](https://kazush.in)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=Kazushin&theme=tokyonight)](https://github.com/TheSoftDiamond/Kazushin)|
 |[Wordify](https://github.com/TheSoftDiamond/wordify)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=wordify&theme=tokyonight)](https://github.com/TheSoftDiamond/wordify)|
+|[TempVoice](https://github.com/TheSoftDiamond/tempvoice)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheSoftDiamond&repo=tempvoice&theme=tokyonight)](https://github.com/TheSoftDiamond/tempvoice)|
