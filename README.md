@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-  ● 🖥️ I work in <strong>Python, Javascript, Unity, Blender</strong><br/>
+  ● 🖥️ I work in <strong>Python, Javascript, Unity, Blende, C#r</strong><br/>
   ● 🔴 I like to stream on <strong>Twitch</strong> and work on videos.<br/>
   ● 🎨 I am a <strong>3D Artist</strong> and use <strong>Blender</strong>.<br/>
   ● 📧 Reach out to me at <a href="mailto:softdiamond@softdiamond.net">softdiamond@softdiamond.net</a>
@@ -14,7 +14,7 @@
 <div align="center"><h2>Technologies I work with</h2></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,py,discordjs,gcp,html,js,unity,nodejs,vscode,npm" />
+    <img src="https://skillicons.dev/icons?i=blender,py,discordjs,gcp,html,js,unity,nodejs,vscode,npm,cs,visualstudio" />
   </a>
 </p>
 
