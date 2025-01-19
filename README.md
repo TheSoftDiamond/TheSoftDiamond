@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-  ● 🖥️ I work in <strong>Python, Javascript, Unity, Blende, C#</strong><br/>
+  ● 🖥️ I work in <strong>Python, Javascript, Unity, Blender, C#</strong><br/>
   ● 🔴 I like to stream on <strong>Twitch</strong> and work on videos.<br/>
   ● 🎨 I am a <strong>3D Artist</strong> and use <strong>Blender</strong>.<br/>
   ● 📧 Reach out to me at <a href="mailto:softdiamond@softdiamond.net">softdiamond@softdiamond.net</a>
